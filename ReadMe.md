@@ -7,4 +7,6 @@
 ## Next on IntelliJ locally
 1) Using the command line, open the destination folder in IntelliJ.
 2) Enter commands: clone and paste repository location copied from GitHub.
-
+## Git Branching
+1) The main (default) branch is the same as its feature branch initially.
+2) Use command line git init to initiate a new feature branch.
