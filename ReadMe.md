@@ -11,3 +11,5 @@
 1) The main (default) branch is the same as its feature branch initially.
 2) Use command line git init to initiate a new feature branch.
 3) Any changes to the feature branch will not appear on the main branch.
+4) Use command line git diff to compare changes to the feature branch to the main branch.
+5) Work with diff while signed onto  the main (default) branch. 
