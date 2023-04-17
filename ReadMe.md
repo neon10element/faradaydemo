@@ -13,3 +13,5 @@
 3) Any changes to the feature branch will not appear on the main branch.
 4) Use command line git diff to compare changes to the feature branch to the main branch.
 5) Work with diff while signed onto the main (default) branch. 
+## Pull Request (PR)
+1) Modifying the feature branch to push changes up to GitHub with a PR.
